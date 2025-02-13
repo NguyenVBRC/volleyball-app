@@ -2,7 +2,7 @@ import Link from 'next/link';
 import styles from './NavigationBar.module.css';
 
 const NavigationBar = () => {
-    const navItems = ['Home', 'Tournaments', 'Leagues']
+    const navItems = ['Home', 'Tournaments', 'Leagues', 'Rules']
 
     return (
         <nav className={styles.nav}>

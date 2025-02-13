@@ -1,6 +1,9 @@
 .nav {
     width: 100%;
     border-bottom: solid white 1px;
+    position: fixed;
+    background-color: black;
+    z-index: 999;
 }
 
 .navList{
