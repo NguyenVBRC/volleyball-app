@@ -1,0 +1,30 @@
+.cardContainer {
+    height: 300px;
+    width: 80%;
+    margin: 32px auto;
+    border: solid white 1px;
+    border-radius: 8px;
+}
+
+.link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 24px;
+    height: 100%;
+    width: 30%;
+    border-right: solid white 1px;
+}
+
+.imageContainer {
+    width: 70%;
+    text-align: center;
+}
